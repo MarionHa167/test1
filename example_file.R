@@ -31,3 +31,5 @@ myconn <- DBI::dbConnect(odbc::odbc(), "SNOWFLAKE_DSN_NAME", uid="USERNAME", pwd
 ## 17.05.22 -- 14:48 -- edit
 
 ## 18.05.22 -- edit
+
+## 19.05.2022 -- edit
